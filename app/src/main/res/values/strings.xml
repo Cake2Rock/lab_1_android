@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="hint_password">Введіть пароль</string>
+    <string name="radio_show_symbols">Відображати символи</string>
+    <string name="radio_show_asterisks">Відображати зірочки</string>
+    <string name="button_ok">OK</string>
+    <string name="label_result">Ваш пароль:</string>
+    <string name="toast_fill_data">Завершіть введення всіх даних!</string>
+</resources>
